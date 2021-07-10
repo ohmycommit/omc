@@ -1,0 +1,14 @@
+{
+  "name": "omc",
+  "version": "0.0.1",
+  "description": "Ohmycommit command line utility",
+  "main": "src/omc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "commander": "^8.0.0"
+  }
+}
